@@ -32,7 +32,7 @@ Lihat daftar klasis wilayah pelayanan GKI pada peta yang dapat diakses [disini](
 ### Wilayah I
 * GKI Bethesda Maribu
   - Website: [gkibethesdamaribu.org](https://gkibethesdamaribu.org)
-  - Deskripsi: GKI Bethesda Maribu berada di Klasis Waibu - Moi.
+  - Deskripsi: GKI Bethesda Maribu berada di Klasis Waibu Moi.
 * GKI Imanuel APO Tugu
   - Website: [gki-iat.org](https://gki-iat.org)
   - Deskripsi: GKI Imanuel APO Tugu berada di Klasis Port Numbay.
