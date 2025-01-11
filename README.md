@@ -59,9 +59,9 @@ Lihat daftar klasis wilayah pelayanan GKI pada peta yang dapat diakses [disini](
   - Deskripsi: [Nama Gereja] berada di Klasis [Nama Klasis].
 
 ### Wilayah V
-* GKI Betlehem Wamena
-  - Website: [gkibetlehemwamena.org](https://gkibetlehemwamena.org)
-  - Deskripsi: GKI Betlehem Wamena berada di Klasis Baliem Yalimo.
+* Nama Gereja: [Nama Gereja]
+  - Website: [Website Gereja]
+  - Deskripsi: [Nama Gereja] berada di Klasis [Nama Klasis].
 
 ### Wilayah VI
 * Nama Gereja: [Nama Gereja]
@@ -84,9 +84,9 @@ Lihat daftar klasis wilayah pelayanan GKI pada peta yang dapat diakses [disini](
   - Deskripsi: [Nama Gereja] berada di Klasis [Nama Klasis].
 
 ### Wilayah X
-* Nama Gereja: [Nama Gereja]
-  - Website: [Website Gereja]
-  - Deskripsi: [Nama Gereja] berada di Klasis [Nama Klasis].
+* GKI Betlehem Wamena
+  - Website: [gkibetlehemwamena.org](https://gkibetlehemwamena.org)
+  - Deskripsi: GKI Betlehem Wamena berada di Klasis Baliem Yalimo.
 
 ### Wilayah XI
 * Nama Gereja: [Nama Gereja]
