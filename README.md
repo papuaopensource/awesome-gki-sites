@@ -95,9 +95,7 @@ Lihat daftar klasis wilayah pelayanan GKI pada peta yang dapat diakses [disini](
 
 ## Kontribusi
 
-Jika Anda ingin berkontribusi untuk mengembangkan daftar ini, Anda dapat mengikuti panduan kontribusi yang ada di file [CONTRIBUTING.md](CONTRIBUTING.md). Di sana Anda akan menemukan langkah-langkah yang jelas tentang cara menambahkan atau memperbaiki informasi mengenai website gereja GKI di wilayah-wilayah yang tercantum.
-
-Pastikan untuk selalu menyertakan informasi yang akurat dan terkini. 
+Jika Anda ingin berkontribusi untuk mengembangkan daftar ini, Anda dapat mengikuti panduan kontribusi yang ada di file [CONTRIBUTING.md](CONTRIBUTING.md). Di sana Anda akan menemukan langkah-langkah yang jelas tentang cara menambahkan atau memperbaiki informasi mengenai website gereja GKI di wilayah-wilayah yang tercantum. Pastikan untuk selalu menyertakan informasi yang akurat dan terkini. 
 
 Terima kasih atas kontribusi Anda!
 
