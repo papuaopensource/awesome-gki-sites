@@ -76,7 +76,7 @@ Lihat daftar klasis wilayah pelayanan GKI pada peta yang dapat diakses [disini](
 ### Wilayah VIII
 * Nama Gereja: GKI Ebenhaezer Timika
   - Website: [gkiebenhaezertimika.com](https://gkiebenhaezertimika.com)
-  - Deskripsi: GKI Ebenhaezer Timika berada di Klasis Klasis Mimika.
+  - Deskripsi: GKI Ebenhaezer Timika berada di Klasis Mimika.
 
 ### Wilayah IX
 * Nama Gereja: [Nama Gereja]
