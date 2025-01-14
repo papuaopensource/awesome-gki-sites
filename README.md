@@ -74,7 +74,7 @@ Lihat daftar klasis wilayah pelayanan GKI pada peta yang dapat diakses [disini](
   - Deskripsi: GKI Martin Luther Wermit berada di Klasis Teminabuan.
 
 ### Wilayah VIII
-* Nama Gereja: GKI Ebenhaezer Timika
+* GKI Ebenhaezer Timika
   - Website: [gkiebenhaezertimika.com](https://gkiebenhaezertimika.com)
   - Deskripsi: GKI Ebenhaezer Timika berada di Klasis Mimika.
 
