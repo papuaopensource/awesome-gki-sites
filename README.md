@@ -27,19 +27,19 @@ Repositori ini berisi kumpulan website jemaat GKI di Tanah Papua. Tujuannya adal
 
 ## Wilayah Pelayanan
 
-Lihat daftar klasis wilayah pelayanan GKI pada peta yang dapat diakses [disini](images/peta-pelayanan-gki.jpg).
+Lihat daftar klasis wilayah pelayanan GKI pada peta yang dapat diakses [disini](https://github.com/papua-opensource/awesome-gki-sites/blob/main/images/peta-pelayanan-gki.png?raw=true).
 
 ### Wilayah I
-* GKI Bethesda Maribu
+* Nama Gereja: GKI Bethesda Maribu
   - Website: [gkibethesdamaribu.org](https://gkibethesdamaribu.org)
   - Deskripsi: GKI Bethesda Maribu berada di Klasis Waibu Moi.
-* GKI Imanuel APO Tugu
+* Nama Gereja: GKI Imanuel APO Tugu
   - Website: [gki-iat.org](https://gki-iat.org)
   - Deskripsi: GKI Imanuel APO Tugu berada di Klasis Port Numbay.
-* GKI Pengharapan Jayapura
+* Nama Gereja: GKI Pengharapan Jayapura
   - Website: [gkipengharapan.id](https://gkipengharapan.id)
   - Deskripsi: GKI Pengharapan Jayapura berada di Klasis Port Numbay.
-* GKI Siloam Waena
+* Nama Gereja: GKI Siloam Waena
   - Website: [gkisiloamwaena.org](https://gkisiloamwaena.org)
   - Deskripsi: GKI Siloam Waena berada di Klasis Sentani.
 
@@ -64,17 +64,17 @@ Lihat daftar klasis wilayah pelayanan GKI pada peta yang dapat diakses [disini](
   - Deskripsi: [Nama Gereja] berada di Klasis [Nama Klasis].
 
 ### Wilayah VI
-* Nama Gereja: [Nama Gereja]
-  - Website: [Website Gereja]
-  - Deskripsi: [Nama Gereja] berada di Klasis [Nama Klasis].
+* Nama Gereja: GKI Petrus Amban
+  - Website: [petrusamban.org](https://petrusamban.org)
+  - Deskripsi: GKI Petrus Amban berada di Klasis Manokwari.
 
 ### Wilayah VII
-* GKI Martin Luther Wermit
+* Nama Gereja: GKI Martin Luther Wermit
   - Website: [gkimlwtemi.com](https://www.gkimlwtemi.com)
   - Deskripsi: GKI Martin Luther Wermit berada di Klasis Teminabuan.
 
 ### Wilayah VIII
-* GKI Ebenhaezer Timika
+* Nama Gereja: GKI Ebenhaezer Timika
   - Website: [gkiebenhaezertimika.com](https://gkiebenhaezertimika.com)
   - Deskripsi: GKI Ebenhaezer Timika berada di Klasis Mimika.
 
