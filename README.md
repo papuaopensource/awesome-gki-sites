@@ -18,6 +18,7 @@ Daftar website resmi Gereja Kristen Injili (GKI) di Tanah Papua yang tersebar di
     - [Wilayah IX](#wilayah-ix)
     - [Wilayah X](#wilayah-x)
     - [Wilayah XI](#wilayah-xi)
+    - [Wilayah XII](#wilayah-xii)
   - [Kontribusi](#kontribusi)
   - [Lisensi](#lisensi)
 
@@ -89,6 +90,11 @@ Lihat daftar klasis wilayah pelayanan GKI pada peta yang dapat diakses [disini](
   - Deskripsi: GKI Betlehem Wamena berada di Klasis Baliem Yalimo.
 
 ### Wilayah XI
+* Nama Gereja: [Nama Gereja]
+  - Website: [Website Gereja]
+  - Deskripsi: [Nama Gereja] berada di Klasis [Nama Klasis].
+ 
+### Wilayah XII
 * Nama Gereja: [Nama Gereja]
   - Website: [Website Gereja]
   - Deskripsi: [Nama Gereja] berada di Klasis [Nama Klasis].
